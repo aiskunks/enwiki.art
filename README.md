@@ -1,7 +1,6 @@
 # enwiki.art Project
 
-_ enwiki.art: Transforming every Wikipedia page into a generative AI sketchbook and and uploading the art in the public domain to Wikimedia Commons? #enwikiArt #AIforArt"
- _
+*enwiki.art: Transforming every Wikipedia page into a generative AI sketchbook and and uploading the art in the public domain to Wikimedia Commons? #enwikiArt #AIforArt*
 
 ## Introduction
 The **enwiki.art** project is an innovative endeavor that leverages the power of generative artificial intelligence (AI) to transform the vast information contained within Wikipedia into visual masterpieces. The main objective is to offer a novel, intuitive, and artistic way to represent each page and concept found in Wikipedia. This not only reimagines the way we interact with knowledge but also serves to make information more accessible and engaging to a wider audience.
