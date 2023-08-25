@@ -3,7 +3,7 @@
 *enwiki.art uses generative AI to sketch art for books and materials, enhancing Wikipedia explanations with visuals* #enwikiArt #AIforArt*
 
 ## Introduction
-The **enwiki.art** project is an innovative endeavor that leverages the power of generative artificial intelligence (AI) to transform the vast information contained within Wikipedia into art for visual journal. The main objective is to create a large art set for books, and learning materials that allows people to add visualis to explainations of concepts in Wikipeida. 
+The **enwiki.art** project is an innovative endeavor that leverages the power of generative artificial intelligence (AI) to transform the vast information contained within Wikipedia into art for visual journals and learning materials. The main objective is to create a large art set for books, and learning materials that allows people to add visualis to explainations of concepts in Wikipeida. 
 
 ## Key Features
 1. **Generative AI Visualizations**: The core technology behind enwiki.art utilizes state-of-the-art generative AI algorithms to craft unique artworks based on Wikipedia content. These visuals are not mere illustrations, but rather intricate representations capturing the essence of the topic.
